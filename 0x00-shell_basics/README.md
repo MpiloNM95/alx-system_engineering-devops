@@ -8,4 +8,5 @@
 * Task 7: A script that moves the file betty from /tmp/ to /tmp/my_first_directory.
 * Task 8: A script that deletes the file betty
 * Task 9: A script that deletes  the directory my_first_directory that is in the /tmp directory.
+* Task 10: A script that changes the working directory to the previous one.
  
