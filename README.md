@@ -14,8 +14,9 @@
 * Task 11: Lists
 * Task 12: File type
 * Task 13: We are symbols, and inhabit symbols
-* Task 14: Copy HTML files
-<br>
+* Task 14: Copy HTML file
 <h4>0x01 Shell Permissions</h4>
 
 * Task 0: My name is Betty
+* Task 1: Who am I
+
