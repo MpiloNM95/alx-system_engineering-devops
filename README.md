@@ -26,3 +26,4 @@
 * Task 6: Multiple permissions
 * Task 7: Everybody!
 * Task 8: James Bond
+* Task 9: John Doe
