@@ -28,3 +28,4 @@
 * Task 8: James Bond
 * Task 9: John Doe
 * Task 10: Look in the mirror
+* Task 11: Directories
