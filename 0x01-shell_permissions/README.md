@@ -7,3 +7,5 @@
 * Task 6: A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file           hello.
 * Task 7: A script that adds execution permission to the owner, the group owner and the other users, to the file hello, (but you
           are  not allowed to use commas in this script).
+* Task 8: A script that sets the permission to the file hello as follows, no permission from the owner, no permission from the 
+          group and other users all the permissions
