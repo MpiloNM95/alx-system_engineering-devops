@@ -15,6 +15,7 @@
 * Task 12: File type
 * Task 13: We are symbols, and inhabit symbols
 * Task 14: Copy HTML file
+
 <h4>0x01 Shell Permissions</h4>
 
 * Task 0: My name is Betty
@@ -30,3 +31,4 @@
 * Task 10: Look in the mirror
 * Task 11: Directories
 * Task 12: More directories
+* Task 13: Change group
