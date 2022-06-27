@@ -62,3 +62,4 @@
 <h4>0x03 Shell Variables & Expansions</h4>
 
 * Task 0: <o>
+* Task 1: Hello you
