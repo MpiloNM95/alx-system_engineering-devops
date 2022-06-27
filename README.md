@@ -58,3 +58,7 @@
 * Task 20: Without C, you would live in hiago
 * Task 21: esreveR
 * Task 22: DJ Cut Killer
+
+<h4>0x03 Shell Variables & Expansions</h4>
+
+* Task 0: <o>
