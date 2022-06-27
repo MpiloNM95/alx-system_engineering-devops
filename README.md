@@ -32,3 +32,7 @@
 * Task 11: Directories
 * Task 12: More directories
 * Task 13: Change group
+
+<h4>0x02 Shell I/O Redirections & Filters</h4>
+
+* Task 0: Hello World
