@@ -36,3 +36,4 @@
 <h4>0x02 Shell I/O Redirections & Filters</h4>
 
 * Task 0: Hello World
+* Task 1: Confused Smiley
