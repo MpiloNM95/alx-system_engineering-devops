@@ -38,3 +38,4 @@
 * Task 0: Hello World
 * Task 1: Confused Smiley
 * Task 2: Lets's display the file
+* Task 3: What about 2?
