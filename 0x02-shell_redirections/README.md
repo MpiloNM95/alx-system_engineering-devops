@@ -4,3 +4,4 @@
 * Task 3: A script that displays the content of /etc/passwd and /etc/hosts.
 * Task 4: A script that displays the last 10 lines of file /etc/passwd.
 * Task 5: A script that displays the first 10 lines of file  /etc/passwd.
+* Task 6: A script that writes a script that displays the third line of the file iacta.
