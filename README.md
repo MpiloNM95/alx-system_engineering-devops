@@ -42,3 +42,4 @@
 * Task 4: Last lines of a file
 * Task 5: I'd prefer the first ones actually
 * Task 6: Line #2
+* Task 7: It is a good file that cuts iron without making a noise
