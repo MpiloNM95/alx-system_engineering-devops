@@ -39,3 +39,4 @@
 * Task 1: Confused Smiley
 * Task 2: Lets's display the file
 * Task 3: What about 2?
+* Task 4: Last lines of a file
