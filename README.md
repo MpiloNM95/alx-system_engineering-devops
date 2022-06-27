@@ -67,3 +67,4 @@
 * Task 3: If the path be beautiful, let us not ask where it leads
 * Task 4: Global variables
 * Task 5: Local variables
+* Task 6: Local variable
