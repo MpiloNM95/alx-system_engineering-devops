@@ -73,4 +73,4 @@ echo "$unused_variable"
 sylvain@ubuntu$ shellcheck good_script
 sylvain@ubuntu$
 ```
-For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code SC2034, you can browse [Click me!](https://github.com/koalaman/shellcheck/wiki/SC2034.)
+For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code SC2034, you can browse [here](https://github.com/koalaman/shellcheck/wiki/SC2034)
