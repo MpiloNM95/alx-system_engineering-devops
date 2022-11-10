@@ -52,12 +52,12 @@ sylvain@ununtu$ shellcheck bad_script
 
 **In bad_script line 3:**
 unused_variable='some unused variable'
-**^-- SC2034: unused_variable appears unused. Verify it or export it.**
+^-- SC2034: unused_variable appears unused. Verify it or export it.
 
 
 **In bad_script line 5:**
 echo $var
-     **^-- SC2086: Double quote to prevent globbing nd word splitting.**
+     ^-- SC2086: Double quote to prevent globbing nd word splitting.
 
 sylvain@ubuntu$
 ```
