@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# This script displays "Best School" 8 times
+# Displays "bad luck" on the 4th iteration
+# Displays "good luck" on the 8th iteration
+n=0
+
+while [ $n -le 9 ]
+do
+	if [[ "$n" == 3 ]]; then	
+		echo "bad luck"
+	elif [[ "$n" == 7 ]]; then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	((n++))
+done
