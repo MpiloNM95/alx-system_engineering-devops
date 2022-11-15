@@ -89,3 +89,24 @@
 * Task 9: To file, or not to file
 * Task 10: FizzBuzz
 
+#### 0x05. Processes and signals
+* Task 0: What is my PID
+* Task 1: List your processes
+* Task 2: Show your Bash PID
+* Task 3: Show your Bash PID made easy
+* Task 4: To infinity and beyond
+* Task 5: Don't stop me now!
+* Task 6: Stop me if you can
+* Task 7: Highlander
+* Task 8: Beheaded process
+
+#### 0x06. Regular expression
+* Task 0: Simply matching School
+* Task 1: Repetition Token #0
+* Task 2: Repetition Token #1
+* Task 3: Repetition Token #2
+* Task 4: Repetition Token #3
+* Task 5: Not quite HBTN yet
+* Task 6: Call me maybe
+* Task 7: OMG WHY ARE YOU SHOUTING?
+
