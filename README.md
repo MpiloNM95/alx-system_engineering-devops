@@ -117,3 +117,7 @@
 * Task 3: UDP and TCP
 * Task 4: TCP and UDP ports
 * Task 5: Is the host on the network
+
+#### 0x08. Networking basics #1
+* Task 0: Change your home IP
+* Task 1: Show attached IPs
