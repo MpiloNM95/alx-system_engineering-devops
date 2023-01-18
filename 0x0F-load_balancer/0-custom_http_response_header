@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script configures web-02 to be identical to the web-01
-sudo apt-get -y update
-sudo apt-get -y install nginx
+sudo apt-get update -y
+sudo apt-get install -y nginx
 sudo ufw allow 'Nginx HTTP'
 sudo chown -R "$USER":"$USER" /var/www/
 echo "Hello World!" > /var/www/html/index.nginx-debian.html
@@ -10,3 +10,4 @@ sudo sed -i '/server_name _/a rewrite ^/redirect_me/ https://www.youtube.com/wat
 sudo sed -i '/server_name _/a error_page 404 /new_404.html; \nlocation = /new_404.html \n{\nroot /var/www/html/;\ninternal; \n}' /etc/nginx/sites-available/default
 sudo sed -i '/# First attempt to serve request as file, then/a add_header X-Served-By $hostname;\n' /etc/nginx/sites-available/default
 sudo service nginx restart
+
