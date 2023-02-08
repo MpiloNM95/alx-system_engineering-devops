@@ -21,6 +21,6 @@ if __name__ == "__main__":
     filename = USER_ID + '.csv'
     with open(filename, mode='w') as file_:
         task = csv.writer(file_, delimiter=',',
-                quotechar='"', quoting=csv.QUOTE_ALL)
+                          quotechar='"', quoting=csv.QUOTE_ALL)
         for queue in range(len(status)):
             task.writerow([USER_ID, USERNAME, status[queue], titles[queue]])
