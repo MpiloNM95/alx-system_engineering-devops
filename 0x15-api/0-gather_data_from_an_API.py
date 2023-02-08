@@ -29,6 +29,6 @@ if __name__ == '__main__':
             true_elements.append(completed)
 
     print('Employee {} is done with tasks({}/{}):'.
-            format(real_name, len(true_elements), len(full_list)))
+          format(real_name, len(true_elements), len(full_list)))
     for task in true_elements:
         print('\t {}'.format(task.get('title')))
