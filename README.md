@@ -43,3 +43,5 @@
 #### 0x15. API [here](https://github.com/MpiloNM95/alx-system_engineering-devops/tree/master/0x15-api)
 
 #### 0x16. API advanced [here](https://github.com/MpiloNM95/alx-system_engineering-devops/tree/master/0x16-api_advanced)
+
+#### 0x17. Web stack debugging #3 [here](https://github.com/MpiloNM95/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
